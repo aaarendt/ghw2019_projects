@@ -1,7 +1,7 @@
 # Projects
 This repository contains information on geohackweek 2019 projects.  Please read more about [Project Guidelines](https://geohackweek.github.io/wiki/project_guidelines.html) and [Project management](https://geohackweek.github.io/wiki/github_project_management.html) on the wiki.  
 
-## Project Checkpoints
+## List of Geohackweek 2019 Projects
 
 |Project Name | Github Repo | slack channel | 
 |:--------|:------|:--------|
@@ -14,3 +14,5 @@ This repository contains information on geohackweek 2019 projects.  Please read 
 | lumin-human | [https://github.com/geohackweek/ghw2019_lumin_human](https://github.com/geohackweek/ghw2019_lumin_human) |  |
 | xyzstac | [https://github.com/geohackweek/ghw2019_xyzstac](https://github.com/geohackweek/ghw2019_xyzstac) | [#deepstac](https://geohackweek2019.slack.com/messages/CN9UMBS06) |
 | golive | [https://github.com/robfatland/golive](https://github.com/robfatland/golive) | [#golive](https://geohackweek2019.slack.com/messages/CMV1PF5PU) |
+| cog-pipeline | [https://github.com/geohackweek/ghw2019_cog-pipeline](https://github.com/geohackweek/ghw2019_cog-pipeline) | | 
+
